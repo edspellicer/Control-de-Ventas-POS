@@ -6,6 +6,22 @@
              mc:Ignorable="d"
              x:Class="Control_de_Ventas_POS.App">
     <Application.Resources>
+        <ResourceDictionary>
+            <!-- Colores de la app-->
+            <Color x:Key="MainColor">#248EA6</Color>
+            <!-- COLOR DE FONDO DE PAGE-->
+            <Color x:Key="FontColor">#F2D338</Color>
+            <!-- Color de la fuente-->
+            <Color x:Key="MenuColor">#25C7D9</Color>
+            <!-- Color de Menú-->
+            <Color x:Key="MenuFontColor">#F2D338</Color>
+            <!-- Color de la fuente de Menu-->
+            <Color x:Key="BackgroundColor">#F2762E</Color>
+            <!-- Color de fondo de pagina-->
+            <Color x:Key="AccentColor">#F23030</Color>
+            <!-- Color acentuacion o resalte-->
 
+
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
